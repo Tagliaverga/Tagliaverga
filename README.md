@@ -21,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tagliaverga&show_icons=true&locale=en&layout=compact" alt="tagliaverga" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tagliaverga&show_icons=true&theme=gruvbox&bg_color=a3a3a3&hide_border=true&locale=en" alt="tagliaverga" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tagliaverga&show_icons=true&theme=dark&text_color=ffffff&bg_color=000000&hide_border=true&locale=en" alt="tagliaverga" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tagliaverga&" alt="tagliaverga" /></p>
